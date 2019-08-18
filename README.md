@@ -5,7 +5,7 @@
  * @Date: 2019-08-17 16:27:56
  * @version: 1.0
  * @LastEditors: tanwubin
- * @LastEditTime: 2019-08-18 13:06:14
+ * @LastEditTime: 2019-08-18 16:38:48
  -->
 
 # algo_graph_with_c
@@ -13,3 +13,5 @@
 ##### 二分搜索 [算法参考](https://github.com/tanwubin/algo_graph_with_c/blob/master/binary_search.c)
 
 ##### 选择排序 [算法参考](https://github.com/tanwubin/algo_graph_with_c/blob/master/selection_sort.c)
+
+##### D&C分治思想 [算法参考](https://github.com/tanwubin/algo_graph_with_c/blob/master/dc_example.c)
